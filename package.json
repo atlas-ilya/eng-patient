@@ -1,0 +1,22 @@
+{
+  "name": "eng-patient-copyright",
+  "version": "1.0.0",
+  "description": "Widget eng-patient-copyright",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlas-ilya/eng-patient-copyright.git"
+  },
+  "author": "https://github.com/atlas-ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlas-ilya/eng-patient-copyright/issues"
+  },
+  "homepage": "https://github.com/atlas-ilya/eng-patient-copyright#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
